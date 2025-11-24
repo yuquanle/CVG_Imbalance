@@ -1,6 +1,6 @@
 <h1>CVG_Imbalance </h1>
 
-Official implementation for TNNLS 2025 paper: "**[On Imbalance in Case Types: Evaluating and Enhancing PLMs for Criminal Court View Generation](xxx)**"
+Official implementation for TNNLS 2025 paper: "**[On Imbalance in Case Types: Evaluating and Enhancing PLMs for Criminal Court View Generation](https://ieeexplore.ieee.org/document/11224688)**"
 
 
 
